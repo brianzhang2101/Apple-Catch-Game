@@ -1,0 +1,23 @@
+SCENARIO:
+
+You are looking for a job at a local farm and the owner of the farm, Farmer Jack, decides to give you a shot. He challenges you to catch 10 regular apples, but theres a catch! When Jack climbs up an apple tree, he plucks and drops both regular apples and rotten ones. Impress him by collecting the right ones and earn yourself a job!
+
+HOW TO PLAY:
+
+	Left Arrow Key: Moves basket to the left (Hold or Tap)
+	Right Arrow Key: Moves basket to the right (Hold or Tap)
+
+	Collect Regular Apples(Red). 
+
+	If you miss a regular apple, you will lose a life. 
+
+	Do not collect Rotten Apples(Blue).
+
+	If you collect one, you will lose 2 lives.
+
+GOAL:
+
+	Collect 10 apples.
+	Don't go reach or go under 0 lives.
+
+Good Luck and Have Fun! :D
